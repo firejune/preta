@@ -8,7 +8,7 @@ Next Localization Management Service.
 What is Preta?
 -----
 
-Transifex is a modern localization platform.
+Preta is a modern localization platform.
 
 It's an online, cloud-based, highly scalable translation management and
 workflow tool, with a focus to integrate well with the existing workflow of
